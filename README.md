@@ -18,7 +18,7 @@ From https://stockfishchess.org/get-involved/ :
 How to use it
 -------------
 
-1) Download portable Fishtest from ...
+1) Download portable Fishtest from https://www.dropbox.com/sh/w9046lwsxeyc9zm/AAAElbguI8zZkDY8YSbxAUEGa/Portable-Fishtest.zip?dl=0
 
 2) Extract the package anywhere on your computer
 
